@@ -100,10 +100,6 @@ public class Chapter5test extends JFrame {
 							myPanel.updateUI();
 						} else {
 							correctAnswer = 5;
-							// remove all components in panel.
-							myPanel.removeAll();
-							// refresh the panel.
-							myPanel.updateUI();
 						}
 
 					}
